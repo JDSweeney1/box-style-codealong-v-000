@@ -87,10 +87,11 @@ img, video, audio, iframe, table, form {
 .col-2 {
   float: left;
   width: 66%;
+  background-color: #fff;
 }
 
 .col-3 {
-
+  background-color: #fff;
 }
 
 [class*="col-"] {
