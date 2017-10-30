@@ -81,17 +81,14 @@ img, video, audio, iframe, table, form {
 .col-1 {
   float: left;
   width: 32%;
-  background-color: #fff;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  background-color: #fff;
 }
 
 .col-3 {
-  background-color: #fff;
 }
 
 [class*="col-"] {
@@ -144,7 +141,7 @@ img, video, audio, iframe, table, form {
 section {
   padding: 30px;
   margin-bottom: 20px;
-
+  background-color: #fff;
 }
 
 /*////////// DETAILS //////////*/
